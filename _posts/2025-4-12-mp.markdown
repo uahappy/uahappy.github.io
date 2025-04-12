@@ -1,0 +1,16 @@
+---
+layout:       post
+title:        "测试标题"
+author:       "uahappy"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - JavaScript
+---
+
+# 定义
+exec 命令是 Linux 系统中一个非常强大的命令，用于执行一个新的进程替代当前进程。
+https://www.cnblogs.com/gered/p/13879755.html
+
+# 用法
